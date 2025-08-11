@@ -30,11 +30,13 @@ It verifies functional correctness and security resilience by running multiple s
 
 📁 src
 
- ├── 📄 UserAuthentication.java        # Authentication logic
+ ├── 📄 UserAuthentication.java        # Authentication Logic
  
- └── 📄 UserAuthenticationTest.java    # TestNG test cases
+ ├── 📄 UserAuthenticationTest.java    # TestNG Test Cases
  
-📄 README.md                           # Project documentation
+ └── 📄 pom.xml                        # Project Object Model
+ 
+📄 README.md                           # Project Documentation
 
 ----------------
 
