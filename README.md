@@ -54,7 +54,7 @@ It verifies functional correctness and security resilience by running multiple s
 
 1- Clone the repository
 
-  - git clone https://github.com/AhmedElian/UserAuthenticationTest.git
+  - git clone [UserAuthenticationTest](https://github.com/AhmedElian/UserAuthenticationTest.git)
    
 2- Open the project in your IDE (IntelliJ / Eclipse / VS Code)
 
