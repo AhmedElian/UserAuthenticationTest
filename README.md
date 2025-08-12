@@ -30,13 +30,20 @@ It verifies functional correctness and security resilience by running multiple s
 
 📁 src
 
+ ├── .gitignore                         # Files/folders ignored by git
+
+ ├── 📄 LICENSE                # MIT License
+
+ ├── 📄 README.md              # Project documentation
+
  ├── 📄 UserAuthentication.java        # Authentication Logic
  
  ├── 📄 UserAuthenticationTest.java    # TestNG Test Cases
  
+ ├── 📄 UserAuthenticationTest.xml         # TestNG test suite configuration
+ 
  └── 📄 pom.xml                        # Project Object Model
  
-📄 README.md                           # Project Documentation
 
 ----------------
 
